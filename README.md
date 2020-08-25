@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img alt="Yarn version" src="https://img.shields.io/badge/yarn-v1.22.4-blue&logo=">
+  <img alt="Yarn version" src="https://img.shields.io/badge/yarn-v1.22.4-blue">
 
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-red">
     
@@ -100,7 +100,7 @@ The following tools were used in the construction of the project:
 
 > See the file [package.json](https://github.com/Ives-Gomes/Ecoleta-API/blob/master/package.json)
 
-#### [](https://github.com/tgmarinho/Ecoleta#utilit%C3%A1rios)**Utilitários**
+#### **Utils**
 
 - API: **[IBGE API](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)** → **[API de UFs](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)**, **[API de Municípios](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)**
 - Maps: **[Leaflet](https://react-leaflet.js.org/en/)**
