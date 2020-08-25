@@ -13,7 +13,7 @@
     
    <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
-  <a href="https://rocketseat.com.br">
+  <a href="https://www.linkedin.com/in/ives-moreira-8871b318a/">
     <img alt="made by Ives Moreira" src="https://img.shields.io/badge/made by-Ives Moreira-blueviolet">
   </a>
 </p>
@@ -103,10 +103,8 @@ The following tools were used in the construction of the project:
 #### **Utils**
 
 - API: **[IBGE API](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1)** → **[API de UFs](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-UFs-estadosGet)**, **[API de Municípios](https://servicodados.ibge.gov.br/api/docs/localidades?versao=1#api-Municipios-estadosUFMunicipiosGet)**
-- Maps: **[Leaflet](https://react-leaflet.js.org/en/)**
 - Editor: **[Visual Studio Code](https://code.visualstudio.com/)** → Extensions: **[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite)**
 - API Test: **[Insomnia](https://insomnia.rest/)**
-- Fonts: **[Ubuntu](https://fonts.google.com/specimen/Ubuntu)**, **[Roboto](https://fonts.google.com/specimen/Roboto)**
 
 ---
 
